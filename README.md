@@ -1,6 +1,6 @@
 ># Hacker Rank
 
->In this solution hacker Rank Taks.
+>In this repositry you will get the solution of hacker Rank Taks.
 
 >Task 1 :\
 >2D Array - DS\
